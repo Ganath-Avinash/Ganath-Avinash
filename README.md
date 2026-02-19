@@ -30,14 +30,12 @@
 <p align="left">
   
 LinkedIn:
-<a href="https://www.linkedin.com/in/ganath-avinash-3265a8343" target="_blank">
+<a href="https://www.linkedin.com/in/ganath-avinash-3265a8343" target="_blank"><br>
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30"/>
 </a>
-
-<br><br>
-
+<br>
 My Portfolio Webpage:
-<a href="https://ganath-avinash.github.io/PortFolio_GR/" target="_blank">
+<a href="https://ganath-avinash.github.io/PortFolio_GR/" target="_blank"><br>
   <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="30"/>
 </a>
 
