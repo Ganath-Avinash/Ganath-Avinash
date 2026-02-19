@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ganath Avinash G.R</h1>
+<h1>Hi 👋, I'm Ganath Avinash G.R</h1>
 
-<h3 align="center">Second Year B.E CSE Student | Full-Stack Developer | AI Agent Builder</h3>
+<h3>B.TECH CSE Student | Full-Stack Developer | AI Agent Builder</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year CSE Student at **Amrita Vishwa Vidyapeetham**
-- 🌐 Currently working on **Full-Stack Website Development & Design**
-- 🚀 Continuously learning **Full-Stack Development**
+- 🎓 CSE Student at **Amrita Vishwa Vidyapeetham**
+- 🌐 Currently working on **Website Development & Design**
+- 🚀 Continuously learning **Full-Stack Development and AI Integration into this field**
 - 🤖 Recently started building **AI Agents using AI frameworks**
 - 🧠 Learning to **fine-tune and build specialized AI agents** for specific tasks
 - 🔗 Integrating AI agents into websites to automate real-world jobs
@@ -29,11 +29,11 @@
 
 <p align="left">
 <a href="YOUR_LINKEDIN_LINK" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.icons8.com/?size=100&id=23883&format=png&color=000000)"/>
 </a>
 </p>
 
