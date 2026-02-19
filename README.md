@@ -29,11 +29,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ganath-avinash-3265a8343" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30"/>
+<h5>LinkedIn: </h5><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30"/>
 </a>
 
 <a href="https://ganath-avinash.github.io/PortFolio_GR/" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="30"/>
+<h5>My Portfolio Webpage: </h5><img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="30"/>
 </a>
 </p>
 
