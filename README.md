@@ -1,16 +1,44 @@
-## Hi, My name is Ganath Avinash G.R 👋
+<h1 align="center">Hi 👋, I'm Ganath Avinash G.R</h1>
 
-<!--
-**Ganath-Avinash/Ganath-Avinash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Second Year B.E CSE Student | Full-Stack Developer | AI Agent Builder</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 2nd Year CSE Student at **Amrita Vishwa Vidyapeetham**
+- 🌐 Currently working on **Full-Stack Website Development & Design**
+- 🚀 Continuously learning **Full-Stack Development**
+- 🤖 Recently started building **AI Agents using AI frameworks**
+- 🧠 Learning to **fine-tune and build specialized AI agents** for specific tasks
+- 🔗 Integrating AI agents into websites to automate real-world jobs
+- 📌 Pronouns: **He**
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 🔨 Building dynamic full-stack web applications
+- 🧩 Designing modern and responsive UI
+- 🧠 Creating task-based AI agents
+- 📈 Improving backend + API architecture skills
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building intelligent systems that automate meaningful tasks.
