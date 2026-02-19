@@ -28,14 +28,15 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ganath-avinash-3265a8343?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
+<a href="https://www.linkedin.com/in/ganath-avinash-3265a8343" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30"/>
 </a>
 
 <a href="https://ganath-avinash.github.io/PortFolio_GR/" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000"/>
+<img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="30"/>
 </a>
 </p>
+
 
 ---
 
