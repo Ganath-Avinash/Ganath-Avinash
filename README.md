@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Ganath Avinash G.R</h1>
+<h2>Hi 👋, I'm Ganath Avinash G.R</h2>
 
-<h3>B.TECH CSE Student | Full-Stack Developer | AI Agent Builder</h3>
+<h4>B.TECH CSE Student | Full-Stack Developer | AI Agent Builder</h4>
 
 ---
 
@@ -12,7 +12,6 @@
 - 🤖 Recently started building **AI Agents using AI frameworks**
 - 🧠 Learning to **fine-tune and build specialized AI agents** for specific tasks
 - 🔗 Integrating AI agents into websites to automate real-world jobs
-- 📌 Pronouns: **He**
 
 ---
 
