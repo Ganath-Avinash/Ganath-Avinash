@@ -26,6 +26,9 @@
   <a href="https://leetcode.com/Ganath" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -48,7 +51,7 @@ Current areas of focus:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,java,cpp,mysql,mongodb,html,css,tailwind,git,github,langchain,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,java,cpp,mysql,mongodb,html,css,tailwind,langchain&theme=dark" />
 </p>
 
 ---
@@ -56,12 +59,12 @@ Current areas of focus:
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ganath-Avinash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganath-Avinash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ganath-Avinash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganath-Avinash&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganath-Avinash&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganath-Avinash&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -78,14 +81,6 @@ Current areas of focus:
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganath-Avinash&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## Selected Projects
 
 | Project | Description | Stack |
@@ -93,7 +88,6 @@ Current areas of focus:
 | [Wits & Bytes](https://github.com/Ganath-Avinash) | Wallpaper discovery and download platform with a responsive frontend and backend integration | React, Node.js, Express |
 | [TrafficSense](https://github.com/Ganath-Avinash) | Real-time vehicle emission monitoring and visualization platform | Haskell, JavaScript |
 | [RAG Customer Agent](https://github.com/Ganath-Avinash) | Retrieval-Augmented Generation based AI assistant for automated customer support workflows | Python, LangChain, RAG |
-| [AI Medical Assistant](https://github.com/Ganath-Avinash) | AI-powered healthcare interaction and workflow assistant | Python, Flask, AI APIs |
 | [Portfolio Website](https://ganath-avinash.github.io/PortFolio_GR/) | Personal portfolio showcasing technical projects and engineering work | React, Tailwind CSS |
 
 ---
@@ -115,11 +109,23 @@ Current areas of focus:
 
 ---
 
-## Current Focus
+## Contribution Graph
 
-```text
-Building scalable AI-integrated systems
-Developing task-specific AI agents
-Strengthening backend engineering skills
-Improving system design and architecture
-Practicing data structures and algorithms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## Contact
+
+- Email: ganathavinash.gr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ganath-avinash/
+- Portfolio: https://ganath-avinash.github.io/PortFolio_GR/
+- LeetCode: https://leetcode.com/Ganath
+
+---
+
+<p align="center">
+  Building production-focused software with modern engineering and applied AI.
+</p>
