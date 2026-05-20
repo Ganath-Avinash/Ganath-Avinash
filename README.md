@@ -55,21 +55,12 @@ Current areas of focus:
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganath-Avinash&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganath-Avinash&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
-
----
 
 
 ## LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ganath?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  <img height="400vh" src="https://leetcard.jacoblin.cool/Ganath?theme=light&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
