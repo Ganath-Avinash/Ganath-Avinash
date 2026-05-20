@@ -60,7 +60,7 @@ Current areas of focus:
 ## LeetCode
 
 <p align="center">
-  <img height="400vh" src="https://leetcard.jacoblin.cool/Ganath?theme=light&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  <img height="100vh" src="https://leetcard.jacoblin.cool/Ganath?theme=light&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
