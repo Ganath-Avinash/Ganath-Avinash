@@ -95,7 +95,7 @@ I am particularly interested in practical applications of language models, retri
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-1%2C899-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganath-Avinash&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="450"/>
 </p>
 
 <p align="center">
