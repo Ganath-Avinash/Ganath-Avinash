@@ -57,17 +57,17 @@ I am particularly interested in practical applications of language models, retri
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="assets/badges/2_GEMINI_BADGE.png" height="120" width="100" alt="Gemini Certified University Student"/><br/>
+      <img src="assets/badges/2_GEMINI_BADGE.png" height="120" width="100" alt="Gemini Certified University Student" style="padding:15px/><br/>
       <b>University Student</b><br/>
       <sub>Google Gemini</sub>
     </td>
     <td align="center" width="150">
-      <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="120" width="100" alt="Gemini Certified Educator"/><br/>
+      <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="120" width="100" alt="Gemini Certified Educator style="padding:15px"/><br/>
       <b>Educator</b><br/>
       <sub>Google Gemini</sub>
     </td>
     <td align="center" width="150">
-      <img src="assets/badges/13_GEN-AI-INACTION.png" height="100" width="100" alt="IBM Gen AI in Action"/><br/>
+      <img src="assets/badges/13_GEN-AI-INACTION.png" height="100" width="100" alt="IBM Gen AI in Action style="padding:15px"/><br/>
       <b>Gen AI in Action</b><br/>
       <sub>IBM</sub>
     </td>
