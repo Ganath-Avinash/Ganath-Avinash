@@ -59,8 +59,6 @@ I am particularly interested in practical applications of language models, retri
 ## Badges & Certifications
 
 
-## Badges & Certifications
-
 <p align="center">
 
   <a href="https://cloud.google.com/learn/certification" target="_blank">
