@@ -58,33 +58,29 @@ I am particularly interested in practical applications of language models, retri
 
 ## Badges & Certifications
 
-<!-- HOW TO INSERT BADGE IMAGES:
-     1. Download each badge as a PNG/SVG from the issuer's platform (Credly, Google, Databricks, etc.)
-     2. Upload them to a folder in your repo, e.g., /assets/badges/
-     3. Replace the placeholder src URLs below with your actual image paths, e.g.:
-        src="./assets/badges/gemini-student.png"
-     4. For Credly badges, you can also use the embed link from the badge share page.
--->
+
+## Badges & Certifications
 
 <p align="center">
 
-  <!-- Gemini Certified Student -->
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="assets/badges/2_GEMINI_BADGE.png" />
+  <a href="https://cloud.google.com/learn/certification" target="_blank">
+    <img src="./assets/badges/gemini-student.png" height="100" width="120" alt="Gemini Certified University Student" title="Gemini Certified – University Student · Google"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
-  <!-- Gemini Certified Educator -->
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="assets/badges/3_GEMINI_BADGE_EDU.png" />
+  <a href="https://cloud.google.com/learn/certification" target="_blank">
+    <img src="./assets/badges/gemini-educator.png" height="100" width="120" alt="Gemini Certified Educator" title="Gemini Certified – Educator · Google"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
-  <!-- IBM Gen AI in Action -->
   <a href="https://www.credly.com/" target="_blank">
-    <img src="assets/badges/13_GEN-AI-INACTION.png" />
+    <img src="./assets/badges/gen-ai-action.png" height="100" width="100" alt="IBM Generative AI in Action" title="Generative AI in Action · IBM"/>
   </a>
 
+</p>
+
+<p align="center">
+  <sub>Gemini Certified University Student &nbsp;·&nbsp; Gemini Certified Educator &nbsp;·&nbsp; IBM – Generative AI in Action</sub>
 </p>
 
 
