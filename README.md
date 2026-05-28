@@ -8,7 +8,6 @@
     />
   </a>
 </p>
----
 
 ## About
 
@@ -27,7 +26,7 @@ I am particularly interested in practical applications of language models, retri
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,java,cpp,mysql,mongodb,html,css,tailwind,langchain&theme=dark" />
 </p>
 
@@ -35,7 +34,7 @@ I am particularly interested in practical applications of language models, retri
 
 ## Coding Stats
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/Ganath" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Ganath-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -46,7 +45,7 @@ I am particularly interested in practical applications of language models, retri
   &nbsp;
 </p>
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/Ganath" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Ganath?theme=dark&font=Fira%20Code&ext=heatmap" width="500"/>
   </a>
@@ -57,7 +56,7 @@ I am particularly interested in practical applications of language models, retri
 ---
 
 
-## Badges & Certifications
+## Badges
 
 <table>
   <tr>
