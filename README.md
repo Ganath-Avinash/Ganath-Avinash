@@ -94,11 +94,11 @@ I am particularly interested in practical applications of language models, retri
 
 ## Contribution Graph
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=Ganath-Avinash&theme=dark&hide_border=true" width="450"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
