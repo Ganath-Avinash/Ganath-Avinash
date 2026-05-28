@@ -70,19 +70,19 @@ I am particularly interested in practical applications of language models, retri
 
   <!-- Gemini Certified Student -->
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini%20Certified-Student-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="assets/badges/2_GEMINI_BADGE.png" />
   </a>
   &nbsp;
 
   <!-- Gemini Certified Educator -->
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini%20Certified-Educator-34A853?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="assets/badges/3_GEMINI_BADGE_EDU.png" />
   </a>
   &nbsp;
 
   <!-- IBM Gen AI in Action -->
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Gen%20AI%20in%20Action-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="assets/badges/13_GEN-AI-INACTION.png" />
   </a>
 
 </p>
