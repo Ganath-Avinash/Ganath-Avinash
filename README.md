@@ -57,7 +57,7 @@ I am particularly interested in practical applications of language models, retri
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="assets/badges/2_GEMINI_BADGE.png" height="120" width="100" alt="Gemini Certified University Student" style="padding:15px/><br/>
+      <img src="assets/badges/2_GEMINI_BADGE.png" height="120" width="100" alt="Gemini Certified University Student" style="padding:15px"/><br/>
       <b>University Student</b><br/>
       <sub>Google Gemini</sub>
     </td>
