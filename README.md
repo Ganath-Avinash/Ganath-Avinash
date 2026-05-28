@@ -95,7 +95,7 @@ I am particularly interested in practical applications of language models, retri
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganath-Avinash&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=Ganath-Avinash&theme=dark&hide_border=true" width="450"/>
 </p>
 
 <p align="center">
