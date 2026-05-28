@@ -58,29 +58,27 @@ I am particularly interested in practical applications of language models, retri
 
 ## Badges & Certifications
 
+## Badges & Certifications
 
-<p align="center">
-
-  <a href="https://cloud.google.com/learn/certification" target="_blank">
-    <img src="assets/badges/2_GEMINI_BADGE.png" height="100" width="120" alt="Gemini Certified University Student" title="Gemini Certified – University Student · Google"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://cloud.google.com/learn/certification" target="_blank">
-    <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="100" width="120" alt="Gemini Certified Educator" title="Gemini Certified – Educator · Google"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="assets/badges/13_GEN-AI-INACTION.png" height="100" width="100" alt="IBM Generative AI in Action" title="Generative AI in Action · IBM"/>
-  </a>
-
-</p>
-
-<p align="center">
-  <sub>Gemini Certified University Student &nbsp;·&nbsp; Gemini Certified Educator &nbsp;·&nbsp; IBM – Generative AI in Action</sub>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="assets/badges/2_GEMINI_BADGE.png" height="80" width="80" alt="Gemini Certified University Student"/><br/>
+      <b>University Student</b><br/>
+      <sub>Google Gemini</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="80" width="80" alt="Gemini Certified Educator"/><br/>
+      <b>Educator</b><br/>
+      <sub>Google Gemini</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="assets/badges/13_GEN-AI-INACTION.png" height="80" width="80" alt="IBM Gen AI in Action"/><br/>
+      <b>Gen AI in Action</b><br/>
+      <sub>IBM</sub>
+    </td>
+  </tr>
+</table>
 
 
 ---
