@@ -95,6 +95,10 @@ I am particularly interested in practical applications of language models, retri
 ## Contribution Graph
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-1%2C899-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
