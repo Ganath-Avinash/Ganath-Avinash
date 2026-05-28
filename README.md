@@ -22,7 +22,6 @@ I am particularly interested in practical applications of language models, retri
 - Retrieval-Augmented Generation (RAG)
 - Modern frontend engineering and responsive UI systems
 
----
 
 ## Tech Stack
 
@@ -30,7 +29,6 @@ I am particularly interested in practical applications of language models, retri
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,java,cpp,mysql,mongodb,html,css,tailwind,langchain&theme=dark" />
 </p>
 
----
 
 ## Coding Stats
 
@@ -52,8 +50,6 @@ I am particularly interested in practical applications of language models, retri
 </p>
 
 
-
----
 
 
 ## Badges
@@ -79,7 +75,6 @@ I am particularly interested in practical applications of language models, retri
 </table>
 
 
----
 
 ## Projects
 
@@ -90,7 +85,6 @@ I am particularly interested in practical applications of language models, retri
 | [Portfolio Website](https://ganath-avinash.github.io/PortFolio_GR/) | Personal portfolio showcasing technical projects and engineering work | React, Tailwind CSS |
 | [Wits & Bytes](https://github.com/Ganath-Avinash) | Wallpaper discovery and download platform with a responsive frontend and backend integration | React, Node.js, Express |
 
----
 
 ## Contribution Graph
 
@@ -102,7 +96,6 @@ I am particularly interested in practical applications of language models, retri
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
 
 ## Contact
 
