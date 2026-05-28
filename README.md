@@ -64,17 +64,17 @@ I am particularly interested in practical applications of language models, retri
 <p align="center">
 
   <a href="https://cloud.google.com/learn/certification" target="_blank">
-    <img src="./assets/badges/gemini-student.png" height="100" width="120" alt="Gemini Certified University Student" title="Gemini Certified – University Student · Google"/>
+    <img src="assets/badges/gemini-student.png" height="100" width="120" alt="Gemini Certified University Student" title="Gemini Certified – University Student · Google"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="https://cloud.google.com/learn/certification" target="_blank">
-    <img src="./assets/badges/gemini-educator.png" height="100" width="120" alt="Gemini Certified Educator" title="Gemini Certified – Educator · Google"/>
+    <img src="assets/badges/gemini-educator.png" height="100" width="120" alt="Gemini Certified Educator" title="Gemini Certified – Educator · Google"/>
   </a>
   &nbsp;&nbsp;
 
   <a href="https://www.credly.com/" target="_blank">
-    <img src="./assets/badges/gen-ai-action.png" height="100" width="100" alt="IBM Generative AI in Action" title="Generative AI in Action · IBM"/>
+    <img src="assets/badges/gen-ai-action.png" height="100" width="100" alt="IBM Generative AI in Action" title="Generative AI in Action · IBM"/>
   </a>
 
 </p>
