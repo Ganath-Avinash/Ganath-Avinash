@@ -8,25 +8,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganath-avinash/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ganath-avinash.github.io/PortFolio_GR/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:ganathavinash.gr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Ganath" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ganathavinash_gr" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -63,9 +44,6 @@ I am particularly interested in practical applications of language models, retri
     <img src="https://img.shields.io/badge/HackerRank-ganathavinash__gr-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
@@ -74,21 +52,7 @@ I am particularly interested in practical applications of language models, retri
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Problems%20Solved-88-blue?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LeetCode-8%25-FFA116?style=flat-square&logo=leetcode" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HackerRank-52.3%25-2EC866?style=flat-square&logo=hackerrank" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GFG-39.8%25-2F8D46?style=flat-square&logo=geeksforgeeks" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20GitHub%20Contributions-1%2C899-58A6FF?style=flat-square&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Longest%20Streak-17%20days-orange?style=flat-square" />
-</p>
 
 ---
 
@@ -123,41 +87,7 @@ I am particularly interested in practical applications of language models, retri
 
 </p>
 
-<p align="center">
 
-  <!-- Postman API Fundamentals -->
-  <a href="https://badgr.com/public/assertions/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-API%20Fundamentals%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
-  &nbsp;
-
-  <!-- Databricks Gen AI Fundamentals -->
-  <a href="https://credentials.databricks.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Databricks-Gen%20AI%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  </a>
-  &nbsp;
-
-  <!-- Notion Academy Essentials -->
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-Academy%20Essentials-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <!-- HackerRank SQL (3 levels combined) -->
-  <a href="https://www.hackerrank.com/profile/ganathavinash_gr" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-SQL%20Basic%20%7C%20Intermediate%20%7C%20Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  &nbsp;
-
-  <!-- HackerRank CSS -->
-  <a href="https://www.hackerrank.com/profile/ganathavinash_gr" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-CSS%20Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-
-</p>
 
 ---
 
