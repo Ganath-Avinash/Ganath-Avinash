@@ -81,14 +81,14 @@ I am particularly interested in practical applications of language models, retri
 
 ---
 
-## Selected Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Wits & Bytes](https://github.com/Ganath-Avinash) | Wallpaper discovery and download platform with a responsive frontend and backend integration | React, Node.js, Express |
 | [TrafficSense](https://github.com/Ganath-Avinash) | Real-time vehicle emission monitoring and visualization platform | Haskell, JavaScript |
 | [RAG Customer Agent](https://github.com/Ganath-Avinash) | Retrieval-Augmented Generation based AI assistant for automated customer support workflows | Python, LangChain, RAG |
 | [Portfolio Website](https://ganath-avinash.github.io/PortFolio_GR/) | Personal portfolio showcasing technical projects and engineering work | React, Tailwind CSS |
+| [Wits & Bytes](https://github.com/Ganath-Avinash) | Wallpaper discovery and download platform with a responsive frontend and backend integration | React, Node.js, Express |
 
 ---
 
