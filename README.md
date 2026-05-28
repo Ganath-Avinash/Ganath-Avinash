@@ -56,24 +56,23 @@ I am particularly interested in practical applications of language models, retri
 
 ---
 
-## Badges & Certifications
 
 ## Badges & Certifications
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="150">
-      <img src="assets/badges/2_GEMINI_BADGE.png" height="80" width="80" alt="Gemini Certified University Student"/><br/>
+      <img src="assets/badges/2_GEMINI_BADGE.png" height="100" width="120" alt="Gemini Certified University Student"/><br/>
       <b>University Student</b><br/>
       <sub>Google Gemini</sub>
     </td>
     <td align="center" width="150">
-      <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="80" width="80" alt="Gemini Certified Educator"/><br/>
+      <img src="assets/badges/3_GEMINI_BADGE_EDU.png" height="100" width="120" alt="Gemini Certified Educator"/><br/>
       <b>Educator</b><br/>
       <sub>Google Gemini</sub>
     </td>
     <td align="center" width="150">
-      <img src="assets/badges/13_GEN-AI-INACTION.png" height="80" width="80" alt="IBM Gen AI in Action"/><br/>
+      <img src="assets/badges/13_GEN-AI-INACTION.png" height="100" width="100" alt="IBM Gen AI in Action"/><br/>
       <b>Gen AI in Action</b><br/>
       <sub>IBM</sub>
     </td>
